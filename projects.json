@@ -4,6 +4,11 @@
       "name": "Example Load",
       "description": "First ever project"
       "link": "https://formatblocks.github.io/example-load"
+      {
+    {
+      "name": "Magic 8 Ball",
+      "description": "get out of my sight 🎱"
+      "link": "https://formatblocks.github.io/magic-8-ball"
     }
   ]
 }
